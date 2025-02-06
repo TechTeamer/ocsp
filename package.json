@@ -24,13 +24,13 @@
   "devDependencies": {
     "mocha": "^11.1.0",
     "selfsigned.js": "^3.0.2",
-    "standard": "^17.0.0"
+    "standard": "^17.1.2"
   },
   "dependencies": {
     "asn1.js": "^5.4.1",
     "asn1.js-rfc2560": "^5.0.1",
     "asn1.js-rfc5280": "^3.0.0",
-    "async": "^3.2.4",
+    "async": "^3.2.6",
     "simple-lru-cache": "^0.0.2"
   }
 }
